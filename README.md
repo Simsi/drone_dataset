@@ -1,4 +1,4 @@
-# drone_dataset
+# drone RF dataset
 # This repo contains binary files of drones and noise RF magnitudes and signals
 # Collected by HackRF One and GNU Radio
 
